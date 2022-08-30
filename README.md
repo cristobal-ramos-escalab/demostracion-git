@@ -7,3 +7,5 @@ En Git importan incluso espacios, saltos de línea y tabulaciones!
 Oh no, una divergencia en las ramas!
 
 Y qué será el origin?
+
+Y qué pasará si edito desde GitHub?
